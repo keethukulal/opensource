@@ -1,4 +1,4 @@
 this is atext 
 print("helo")
 hello mite
-good morniong mite
+good morning mite
